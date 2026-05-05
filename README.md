@@ -5,6 +5,7 @@ Builder для механических клавиатур с 3D видом.
 ## References
 1. https://keyboardsimulator.xyz/
 2. https://eu.computerorbit.com/products/custom-keyboard-builder
+
 Нужно совместить первую ссылку и вторую, чтобы получить крутой конструктор клавиатур
 
 ## Stack
@@ -13,6 +14,12 @@ Builder для механических клавиатур с 3D видом.
 - Vite 8
 - Bootstrap 5
 - Tres.js + Three.js
+
+## Работаю над
+- Изменение цвета на модели
+
+## References to models
+- https://skfb.ly/ovvxx
 
 ## Todo
 - [ ] Типы под свичи, клавиатуры, конструктор
